@@ -1,9 +1,9 @@
 
 
-# Photoshop 사용 
-각종 어플리케이션화면구성
-앱 아이콘 
-모바일화면구성 
+# Photoshop 사용 <p>
+각종 어플리케이션화면구성 <p>
+앱 아이콘 <p>
+모바일화면구성 <p>
 
 ![뮤직플레이어2](https://user-images.githubusercontent.com/55124264/71948528-a3143780-3213-11ea-9f1c-fd044183fe4f.jpg)
 ![친구 목록 리스트](https://user-images.githubusercontent.com/55124264/71948529-a3143780-3213-11ea-984c-064a3777aaf0.jpg)
