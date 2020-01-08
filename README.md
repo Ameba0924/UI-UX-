@@ -1,4 +1,4 @@
-
+![190762784](https://user-images.githubusercontent.com/55124264/71948667-1a49cb80-3214-11ea-898d-5c62a5ad0f89.jpg)
 
 # Photoshop 사용 <p>
 각종 어플리케이션화면구성 <p>
